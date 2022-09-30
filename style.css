@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(to bottom left, rgb(255, 166, 0), white);
+    text-align: center;
+    margin: 15px;
+}
+
+div {
+    background: white;
+    padding-bottom: 75px;
+
+}
+
+h2{
+    color: darkorange;
+
+}
+
+#score-table {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#flip-penny { 
+    background-image: linear-gradient(to bottom left, lightblue, white);
+
+}
+
+#clear-score {
+    background-image: linear-gradient(to bottom left, orange, white);
+}
+
+table, 
+th, 
+td {
+    border: 2px solid orange;
+    margin: 0 auto;
+}
+
+button {
+    border: 1px black solid;
+    margin-right: 10px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+.controls {
+    margin: 5px;
+    padding: 15px;
+    border: 1px solid black;
+
+
+}
